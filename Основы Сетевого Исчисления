@@ -1,0 +1,61 @@
+\documentclass[a4paper]{article}
+\usepackage[14pt]{extsizes} 
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{setspace,amsmath}
+\usepackage[left=20mm, top=15mm, right=15mm, bottom=15mm, nohead, footskip=10mm]{geometry}
+ 
+\begin{document}
+ 
+\begin{center}
+\hfill \break
+\large{Министерство образования и науки РФ}\\
+\footnotesize{Федеральное государственное бюджетное образовательное учреждение}\\ 
+\footnotesize{высшего образования}\\
+\small{\textbf{«Владимирский государственный университет имени Александра Григорьевича и Николая Григорьевича Столетовых»}}\\
+\hfill \break
+\normalsize{Кафедра Информатики и Защиты Информации}\\
+\hfill\break
+\hfill \break
+\hfill \break
+\hfill \break
+\large{\textbf{Основы Сетевого Исчисления}}\\
+\hfill \break
+\hfill \break
+\hfill \break
+\normalsize{Практическая работа\\
+\hfill \break
+Направление  10.03.01 Информационная Безопасность\\
+\hfill \break
+\hfill \break
+\end{center}
+ 
+\hfill \break
+\hfill \break
+\hfill \break
+ 
+\normalsize{ 
+\begin{tabular}{cccc}
+Руководитель & \underline{\hspace{3cm}} &  Доцент кафедры Монахов Ю.М \\\\
+Обучающийся & \underline{\hspace{3cm}} & Ст. гр. ИБ-120 Шишкин С.А. \\\\
+\end{tabular}
+}\\
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\begin{center} Владимир 2023 \end{center}
+\thispagestyle{empty} 
+ 
+
+ 
+
+ 
+ 
+\end{document}  
